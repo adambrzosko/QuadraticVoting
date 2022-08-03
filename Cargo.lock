@@ -4087,6 +4087,8 @@ dependencies = [
  "frame-benchmarking",
  "frame-support",
  "frame-system",
+ "integer-sqrt",
+ "pallet-balances",
  "parity-scale-codec",
  "scale-info",
  "sp-core",
